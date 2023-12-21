@@ -1,0 +1,3 @@
+Microsoft home page clone .....
+
+![Screenshot (100)](https://github.com/kapilnish/Microsoft-home-page-clone/assets/91783684/1b577cd9-71cb-4131-ba75-ceeef281af7b)
